@@ -1,0 +1,158 @@
+ *
+ {
+     margin:0;
+     padding: 0;
+
+ }
+ 
+header
+{
+    background-image:url(images1/beautiful-blur-bright-326055.jpg) ;
+    opacity: 0.8;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-nav
+{
+    float:right;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+    
+}
+
+
+
+.uno:hover
+{
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;
+}
+
+.deux:hover
+{
+    background-color: blueviolet;
+    transition: all 0.5s ease-in; 
+}
+
+.troix:hover
+{
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;
+}
+
+.main-nav a
+{
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+   text-decoration: solid; 
+   padding: 10px 20px;
+   font-family: "Roboto", sans-serif;
+   font-size: 16px;
+   background-color: black;
+   
+}
+
+.main-nav li a.uno:hover
+{
+    
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;   
+}
+
+.main-nav li a.troix:hover
+{
+    
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;   
+}
+
+.main-nav li a.deux:hover
+{
+    
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;   
+}
+
+.main-nav li a:hover
+{
+    
+    background-color: blueviolet;
+    transition: all 0.5s ease-in;   
+}
+
+
+
+.logo img
+{
+    width: 140px;
+    height: auto;
+    float: left;
+}
+
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hero
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+h1
+{
+    color:rgb(251, 252, 253);
+    font-size: 80px;
+    text-align: center;
+    margin-top: 260px;
+    margin-left: 140px ;
+}
+
+.slipper
+{
+    margin-top: 30px;
+    margin-left: 460px;
+}
+
+.slip
+{
+    border: 2px solid whitesmoke;
+    padding: 10px 40px;
+    color: white;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.first-slip
+{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.second-slip
+{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.first-slip:hover
+{
+background-color: blueviolet;
+transition: all 0.5s ease-in;
+}
+
+.second-slip:hover
+{
+background-color:blueviolet;
+transition: all 0.5s ease-in;
+}
